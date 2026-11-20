@@ -1,0 +1,15 @@
+[index.html](https://github.com/user-attachments/files/35156808/index.html)
+<!DOCTYPE html>
+<!-- saved from url=(0095)file:///C:/Users/bereket.ambaye/OneDrive%20-%20Safaricom%20Ethiopia/Desktop/file%202/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+        <link rel="stylesheet" href="./index_files/index.css">
+    </head>
+    <body>
+        <h1> People entered:</h1>
+        <h2 id="count-el">0</h2>
+        <button id="increment-btn" onclick="increment()">INCREMENT</button>
+        <button id="save-btn" onclick="save()">SAVE</button>
+        <p id="save-el">Previous entries:</p>
+        <script src="./index_files/index.js"></script>
+    
+</body></html>
